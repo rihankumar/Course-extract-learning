@@ -7,6 +7,6 @@
 <p align="center">🩵 Thanks for Being Here 🩵</p>
 
 <p align="center"> ⭐ DEPLOY ON HEROKU (manually) </p>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rihankumar/txt_leech)
 
-<p align="center"> 👉 To learn how can deploy manually contant from DEVELOPER 🙋‍♂️ </p>
 
