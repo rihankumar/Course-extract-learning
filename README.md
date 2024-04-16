@@ -8,6 +8,4 @@
 
 <p align="center"> ⭐ DEPLOY ON HEROKU (manually) </p>
 
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rihankumar/txt_leech)
-
 
